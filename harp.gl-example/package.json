@@ -1,0 +1,15 @@
+{
+    "name": "harp.gl-example",
+    "version": "0.1.0",
+    "description": "Generated with generator-harp.gl 0.27.1",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack",
+        "start": "webpack serve"
+    },
+    "author": "",
+    "private": true,
+    "dependencies": {
+        "three": "^0.129.0"
+    }
+}
